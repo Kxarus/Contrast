@@ -15,6 +15,6 @@
 
 xcuserdata/
 xcshareddata/
-# *.xcworkspacedata
+*.xcworkspacedata
 
 */.DS_Store
