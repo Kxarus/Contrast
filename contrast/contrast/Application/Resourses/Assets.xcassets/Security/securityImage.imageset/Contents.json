@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "undraw_mobile_encryption_re_yw3o 1.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "undraw_mobile_encryption_re_yw3o 2.svg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "undraw_mobile_encryption_re_yw3o 3.svg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

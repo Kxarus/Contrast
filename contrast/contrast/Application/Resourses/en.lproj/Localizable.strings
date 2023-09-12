@@ -1,0 +1,234 @@
+/* 
+  Localizable.strings
+  contrast
+
+  Created by Roman Kiruxin on 28.06.2023.
+  
+*/
+
+//MARK: - Tabbar
+"tabMain" = "Главная";
+"tabCatalog" = "Каталог";
+"tabSupport" = "Поддержка";
+"tabContacts" = "Контакты";
+"tabProfile" = "Профиль";
+
+//MARK: - ButtonsTitle
+"next" = "Далее";
+"allow" = "Разрешить";
+"skip" = "Пропустить";
+"confirm" = "Подтвердить";
+"cancel" = "Отменить";
+"close" = "Закрыть";
+"cancelOrder" = "Отменить заказ";
+"makeOrder" = "Оформить";
+"addPhotosOrder" = "Добавить фотографии";
+
+//MARK: - ErrorAlerts
+"alertBulkyGoods" = "Крупный товар не может быть забран из выбранного адреса";
+"alertMinAmount" = "Минимальная сумма для заказа в данной зоне ";
+
+//MARK: - OnBoarding
+"onboardingFirstTitle" = "Удобная химчистка не выходя из дома";
+"onboardingSecondTitle" = "Зачем нужна геопозиция?";
+"onboardingThirdTitle" = "Зачем нужны PUSH уведомления?";
+"onboardingFourthTitle" = "Почему важно зарегистрироваться?";
+"onboardingFourthMainButtonTitle" = "Войти по номеру телефона";
+
+//MARK: - Login
+"inputPhoneTitle" = "Введите ваш номер";
+"smsLogin" = "Войти через SMS";
+"telegramLogin" = "Войти через Telegram";
+
+//MARK: - Auth
+"enterCode" = "Enter code";
+"recendCodeVia" = "Get a repeat code via %@";
+"recendCode" = "Get a repeat code";
+"confirm" = "Confirm";
+"wrongCode" = "Неверный код";
+
+// MARK: - LogInParams
+"logInApp" = "Log in app";
+"securityMessage" = "For security, you can set up login by PIN code or by unique features of your face";
+"skip" = "Skip";
+"pincodeLogin" = "Login by PIN code";
+
+// MARK: - PincodeSet
+"enterPincode" = "Enter PIN code";
+"enterPincodeAgain" = "Enter PIN code again";
+"pincodeSetError" = "PIN code did not match";
+"retry" = "Retry";
+"authenticateFaceTouchId" = "Authenticate using Face/Touch Id";
+"attention" = "Attention";
+"errorBiometry" = "You changed the Face ID settings on your device. Log in with your code and the settings will be updated in the app automatically";
+"ok" = "Ok";
+"errorUnknown" = "Face/Touch Id error";
+"wrongPincode" = "The PIN code is incorrect. Repeat the input";
+"recendCode" = "Получить повторный код через";
+"recendCodeAgain" = "Получить повторный код";
+
+//MARK: - PrmoCode
+"invitationCode" = "Пригласительный код друга";
+"code" = "8 значный код полученый от друга";
+"getPoints" = "Вы и ваш друг получите баллы";
+"codeNotCorrectly" = "Код введен неверно";
+
+// MARK: - Notifications
+"notifications" = "Уведомления";
+"question" = "Есть вопрос";
+"accept" = "Принять";
+
+//MARK: - MainDashboard
+"newOrderTitle" = "Сделайте новый заказ";
+"newOrderDescription" = "Закажите прямо сейчас мы отправим к вам опытного специалиста уже в ближайшее время";
+"arrangeDelivery" = "Оформить доставку";
+"registrationOnTrustTitle" = "Оформление на доверии";
+"registrationOnTrustDescription" = "Оформление на доверии - это такое такое то";
+"activeOrders" = "Активные заказы";
+"created" = "Создан";
+"onWay" = "В пути";
+"agreement" = "Согласование";
+"approved" = "Одобрен";
+"inProgress" = "В работе";
+"rejected" = "Отклонен";
+"refund" = "Возврат";
+"ready" = "Готов";
+"keeping" = "Хранение";
+"done" = "Выполнен";
+"recieptNumber" = "Квитанция: № %@";
+"orderNumber" = "Заказ # %@";
+"pickUpTitle" = "Вещи заберут:";
+"desiredPickupTime" = "Желаемое время доставки:";
+"wasPickedUp" = "Вещи забрали:";
+"willBeReturned" = "Вещи вернут:";
+"personalDiscount" = "С учетом личной скидки %@%%";
+"pay" = "Оплатить";
+"payed" = "Оплачено";
+"courierPay" = "Оплата курьеру";
+"hasQuestions" = "Есть вопросы?";
+"reject" = "Отклонить";
+"canceled" = "Отменен";
+"choosePickupTime" = "Выберите время возврата вещей";
+"supportText" = "Скоро с вами свяжется наш оператор. Если в течении суток не было звонка, обратитесь в поддержку";
+"helpMessage" = "Помогите нам стать лучше";
+"estimateOrder" = "Оценить заказ";
+"pickupReady" = "Вещи готовы к выдаче";
+"freeUnil" = "Бесплатно до %@";
+"showOnMap" = "Показать на карте";
+"waitingForAssessment" = "Ждет оценки технолога";
+"accurateAssessment" = "Точная цена будет известна после оценки технолога";
+
+//MARK: - EstimateOrder
+"loadPhoto" = "Загрузить фото";
+"photoFormat" = "JPG, PNG до 15 мб";
+"yourComment" = "Ваш комментарий";
+"choosePhoto" = "Выбрать фото";
+"photo" = "Фото";
+"photoLibrary" = "Галерея";
+"cancelation" = "Отмена";
+
+//MARK: - VPNCheck && Connect
+"vpnMessage" = "Для более стабильной работы рекомендуется отключить VPN";
+"connectError" = "Проверьте подключение к сети интернет";
+
+//MARK: - OrderСancellation
+"titleMessageOrderCancellation" = "Уверены что хотите отменить заказ?";
+"descriptionMessageOrderCancellation" = "Если вы отмените заказ мы вернем вещи бесплатно в ближайшее время";
+
+//MARK: - TrustArrangement
+"titleMessageTrustArrangement" = "Оформление на доверии";
+"descriptionMessageTrustArrangement" = "Описание что такое оформление на доверии более\nподробным текстом";
+
+//MARK: - TimeSlots
+"timeSlotsTitle" = "Когда привезти вещи обратно?";
+
+//MARK: - Documents
+"receipt" = "Квитанция:";
+
+//MARK: - OrderValueView
+"costBeforeEstimate" = "Стоимость до оценки технолога";
+"from" = "от";
+
+//MARK: - Catalog
+"catalogSearch" = "Поиск по каталогу";
+
+//MARK: - PaymentMethod
+"pointsPayment" = "Оплата баллами";
+"pointsMax" = "Макс %@ баллов";
+"sumWithoutPoints" = "Сумма без учета баллов: %@ ₽";
+"plusPoints" = "+ %@ баллов";
+"finalSum" = "%@ ₽";
+"choosePaymentType" = "Выберите способ оплаты";
+"cardPayment" = "Оплата картой";
+"cash" = "Наличными курьеру";
+"mainCard" = "Основная карта";
+"anotherCard" = "Другая карта";
+"cardNumber" = "%@ карты";
+
+//MARK: - LinkedCards
+"linkedCards" = "Привязанные карты";
+"linkCard" = "Привязать карту";
+
+//MARK: - PaymentConfirmation
+"paymentConfirmation" = "Подтверждение оплаты";
+"orderInfo" = "С вашей карты %@ по заказу %@ спишется:";
+
+//MARK: - PaymentSuccess
+"paymentSuccess" = "Успешно оплачено";
+"paymentSuccessSubtitle" = "Мы приступаем к работе над вашим заказом";
+"toMain" = "На главную";
+
+//MARK: - LinkNewCard
+"linkNewCard" = "Привязать карту";
+"securityConnectionMessage" = "Соединение защищено по стандартам PSI DSS";
+"holdMoney" = "Мы временно заморозим на вашем счету 1₽ для настройки оплаты";
+"cardFullNum" = "Номер карты";
+"validityPeriod" = "Срок действия";
+"cvc" = "CVC/CVV";
+
+// MARK: - Stories
+"copy" = "Скопировать";
+"copied" = "Скопировано";
+
+// MARK: - Map
+"specifyAddress" = "Уточнить адрес";
+"confirmAddress" = "Подтвердить адрес";
+"addressOutsideServiceArea" = "Адрес вне зоны работы сервиса";
+"inputAddress" = "Введите адрес";
+"cityStreet" = "Город, Улица";
+"entry" = "Подъезд";
+"flat" = "Квартира";
+"floor" = "Этаж";
+"intercom" = "Домофон";
+"commentForCourier" = "Комментарий для курьера";
+"saveUserAddress" = "Сохранить в мои адреса";
+"house" = "Дом";
+"office" = "Офис";
+"hotel" = "Отель";
+
+//MARK: - TimeIntervalsOrdering
+"titleScreenTimeIntervalsOrdering" = "Время забора вещей";
+"expressDelivery" = "Экспресс выезд";
+"amountExpress" = "Выезд от ";
+"additionalPhoneNumbers" = "Дополнительные номера";
+"callBeforeArrival" = "Звонок перед приездом";
+"dontCall" = "Не звонить";
+"mocExpressDesc" = "Выезд от 700₽ в ближайшее время (тестовый текст) Lorem Ipsum - это текст-рыба, часто используемый в печати и вэб-дизайне. ";
+
+// MARK: - Ordering
+"selectDeliveryTime" = "Выбрать время доставки";
+"addPhotosItems" = "Добавить фотографии вещей";
+"promocode" = "Промокод";
+"orderDiscount" = "Технолог учтет скидку 15% при оценке ваших вещей";
+"checkPromocode" = "Проверить промокод";
+"address" = "Адрес";
+
+//MARK: - SuccessOrder
+"successOrder" = "Ваш заказ принят!";
+"successOrderDesc" = "Ожидайте курьера";
+
+// MARK: - AddPhotosInOrdering
+"photoComment" = "Прокомментируйте проблемные места для чистки ваших вещей";
+"addOrderPhoto" = "Добавить фото вещей";
+"firstDeclensionPhoto" = "фотография";
+"secondDeclensionPhoto" = "фотографии";

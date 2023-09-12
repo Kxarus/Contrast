@@ -1,0 +1,9 @@
+/* 
+  Info.strings
+  contrast
+
+  Created by Александра Орлова on 29.06.2023.
+  
+*/
+
+"NSFaceIDUsageDescription" = "Доступ к Face/Touch Id требуется для более быстрого входа в приложение";
